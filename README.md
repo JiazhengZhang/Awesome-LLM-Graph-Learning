@@ -83,5 +83,12 @@ A collection of paper related to **Large Language Models For Genral Graph Learni
 - (*arXiv 2023.11*) A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper](https://arxiv.org/abs/2311.12399)][[code](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]
 - (*arXiv 2023.12*) Large Language Models on Graphs: A Comprehensive Survey [[paper](https://arxiv.org/abs/2312.02783)][[code](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 - (*arXiv 2024.02*) Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models [[paper](https://arxiv.org/abs/2402.11641)]
-  
+
+## Related Repository
+- [LLM4Graph](https://github.com/SitaoLuan/LLM4Graph/tree/main) 
+- [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+- [awesome-large-graph-model](https://github.com/THUMNLab/awesome-large-graph-model)
+- [Awesome-Language-Model-on-Graphs](https://github.com/petergriffinjin/awesome-language-model-on-graphs)
+- [Awesome-LLMs-in-Graph-tasks](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)
+- [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt)
 
